@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishu3278
 - 👀 I’m interested in javascript.
-- 🌱 I’m currently learning vue.js 3.
+- 🌱 I’m currently working on vue.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
